@@ -10,10 +10,7 @@ output: html_document
 
 While working on this project, I was using a Ubuntu 14.04 32 bit linux OS 4GB RAM using R version 3.1.1 (Sock it to Me) and using RStudio version 0.98.994
 
-Step 1) First go and download the zip file containing the original data set from the following website:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-
-Step 2) Extract the zip file to whatever directory of your choice
+I included the orginal data set in the folder UCI HAR Dataset folder so you do not have to download it.
 
 Step 3) the run_analysis function takes two parameters; A directory of where the UCI HAR Dataset folder is and the directory of where you want to save the .txt file dataset (For example, I saved it to my Desktop directory and called the .txt file "UCI_HAR_Dataset_Tidy.txt")
 
